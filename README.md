@@ -1,6 +1,6 @@
 # Music Player
 
-A simple, interactive music player built using **HTML**, **CSS**, and **JavaScript**. This project allows users to play, pause, and control audio files, designed to practice working with audio in JavaScript.
+A simple, interactive music player built using **HTML**, **CSS**, and **JavaScript**. This project allows users to play, pause, and control audio files, designed to practice working with audio in JavaScript. You can visit the site [here](https://remyshift.github.io/PMP-JS_Audio_Player/).
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ music-player/
 
 ## Customization
 
-To add new tracks, place audio files in the `assets/` folder and update the file paths in the `index.html`. You can also modify the JavaScript in `js/script.js` to add custom features or enhance the player controls.
+To add new tracks, place audio files in the `assets/` folder and update the file paths in the `index.html`. You can also modify the JavaScript in `script.js` to add custom features or enhance the player controls.
 
 ## Contributors
 
